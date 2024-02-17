@@ -1,0 +1,11 @@
+
+Se deben de visualizan en la pagina dos Anclas 
+
+    Ver Todos los Post (Si funciona)
+        Aqui se listan todos los post, como dicen las intrucciones consumi el api https://jsonplaceholder.typicode.com/posts para obtener el titulo y hacer la listan
+        si dan clic sobre el enlace, los llevara a un componente donde se visualizan mas datos del post obtenidos con https://jsonplaceholder.typicode.com/posts/id, 
+        finalmente en este componente se muestra en la parte inferior un enlace para ver los comentarios obtenidos de https://jsonplaceholder.typicode.com/posts/id/comments
+    
+    Crear Nuevo Post (No tiene funcionalidad)
+
+    Notas: Para compilar uso Vite, e instale route-dom par hacer el nav bar y axios para el consumo de las apis
